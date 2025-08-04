@@ -44,7 +44,7 @@ Pickle
 
 InceptionV3
 
-LSTm
+LSTM
 
 Python's os / glob modules
 
